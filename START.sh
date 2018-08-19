@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Starting...
+python PY-TERM.py
